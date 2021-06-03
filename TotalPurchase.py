@@ -4,6 +4,7 @@
 # the sale, the amount of sales tax, and the total.
 # Assume the sales tax is 6 percent.
 
+
 print("You are purchasing 5 items. Enter the price of each item"
       "to get the subtotal, the sales tax, and the total.")
 item1 = input("Item 1 price: ")
